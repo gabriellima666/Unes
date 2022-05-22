@@ -5,13 +5,13 @@
 }
 
 #branco-e-cinza {
-  background: #fff url(_image/fundo.png) repeat-x;
+  background: #fff url(image/fundo.png) repeat-x;
   font-family: 'Times New Roman', Times, serif;
   font-size: 1em;
 }
 
 #fundo-branco {
-  background: #fff url(_image/fundo2.png) repeat-x;
+  background: #fff url(image/fundo2.png) repeat-x;
   font-family: 'Times New Roman', Times, serif;
   font-size: 1em;
 }
